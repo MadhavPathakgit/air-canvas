@@ -1,4 +1,4 @@
-pe
+
 # Air Canvas with Machine Learning
 
 This computer vision project leverages OpenCV and Machine Learning using Mediapipe to create an innovative drawing experience using hand gestures.
@@ -33,6 +33,5 @@ Make sure you have the following installed on your system:
 ## Screenshot
 ![Air Canvas Example](https://raw.githubusercontent.com/infoaryan/Air-Canvas-with-ML/master/Screenshot%20from%202022-06-16%2019-57-44.png)
 
-## Getting Started
 
 
