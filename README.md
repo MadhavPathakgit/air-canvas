@@ -35,7 +35,4 @@ Make sure you have the following installed on your system:
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/air-canvas-
-   cd air-canvas-
+
